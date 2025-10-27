@@ -7,3 +7,4 @@ terraform.tfvars
 terraform.lock.hcl
 
 .terraform.lock.hcl
+ec2-s3.pem
